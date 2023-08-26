@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: spring-boot-app
-          image: hoangit3/springboot-cicd:2
+          image: hoangit3/springboot-cicd:3
           ports:
             - containerPort: 8082
