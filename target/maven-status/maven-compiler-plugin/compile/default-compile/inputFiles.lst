@@ -1,0 +1,4 @@
+/var/lib/jenkins/workspace/springboot-jenkins-k8s/src/main/java/org/anhhoang/springbootmongo/repository/UserRepository.java
+/var/lib/jenkins/workspace/springboot-jenkins-k8s/src/main/java/org/anhhoang/springbootmongo/controller/UserController.java
+/var/lib/jenkins/workspace/springboot-jenkins-k8s/src/main/java/org/anhhoang/springbootmongo/SpringbootMongoApplication.java
+/var/lib/jenkins/workspace/springboot-jenkins-k8s/src/main/java/org/anhhoang/springbootmongo/entity/User.java

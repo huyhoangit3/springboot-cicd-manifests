@@ -1,0 +1,4 @@
+org/anhhoang/springbootmongo/entity/User.class
+org/anhhoang/springbootmongo/SpringbootMongoApplication.class
+org/anhhoang/springbootmongo/controller/UserController.class
+org/anhhoang/springbootmongo/repository/UserRepository.class
